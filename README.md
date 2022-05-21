@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/DolceJ0Lly/panel)](https://repl.it/github/DolceJ0Lly/panel)
 [![Logo Image](https://cdn.pterodactyl.io/logos/new/pterodactyl_logo.png)](https://pterodactyl.io)
 
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/pterodactyl/panel/tests?label=Tests&style=for-the-badge)
